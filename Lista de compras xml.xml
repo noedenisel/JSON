@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Lista_de_compras>
+	<DIA>
+		<Direccion>CL Riera e la Creu 47-49</Direccion>
+		<Poblacion>Hospitalet de Llobregat</Poblacion>
+		<Provincia>Barcelona</Provincia>
+		<Seccion>
+			<Almacen>
+				<ProductosEnOferta>
+					<Nombre>Chocolate Negro Dia Temptation</Nombre>
+					<Oferta>16% de descuento</Oferta>
+					<Vigencia>del 23/03 al 29/03</Vigencia>
+					<Precio>0.79</Precio>
+					<Unidad>1</Unidad>
+					<Medida>unidad</Medida>
+				</ProductosEnOferta>
+			</Almacen>
+			<Almacen>
+				<ProductosSinOfertas>
+					<Nombre>Coca Cola en lata</Nombre>
+					<Precio>8.40</Precio>
+					<Unidad>1</Unidad>
+					<Medida>pack x 12</Medida>
+				</ProductosSinOfertas>
+			</Almacen>
+		</Seccion>
+		<Seccion>
+			<Fruteria>
+				<ProductosEnOferta>
+					<Nombre>Naranjas</Nombre>
+					<Oferta>30% de descuento</Oferta>
+					<Vigencia>del 23/03 al 29/03</Vigencia>
+					<Precio>2.49</Precio>
+					<Unidad>2</Unidad>
+					<Medida>Kilos</Medida>
+				</ProductosEnOferta>
+			</Fruteria>
+			<Fruteria>
+				<ProductosSinOfertas>
+					<Nombre>Platanos</Nombre>
+					<Precio>3.62</Precio>
+					<Unidad>2</Unidad>
+					<Medida>Kilos</Medida>
+				</ProductosSinOfertas>
+			</Fruteria>
+		</Seccion>
+	</DIA>
+</Lista_de_compras>
+<Lista_de_compras>
+	<Mercadona>
+		<Direccion>Avda. Carmen Amaya 37</Direccion>
+		<Poblacion>Hospitalet de Llobregat</Poblacion>
+		<Provincia>Barcelona</Provincia>
+		<Seccion>
+			<Almacen>
+				<ProductosEnOferta>
+					<Nombre>Chocolate Negro </Nombre>
+					<Oferta>10% de descuento</Oferta>
+					<Vigencia>Durante todo Marzo</Vigencia>
+					<Precio>0.90</Precio>
+					<Unidad>1</Unidad>
+					<Medida>unidad</Medida>
+				</ProductosEnOferta>
+			</Almacen>
+			<Almacen>
+				<ProductosSinOfertas>
+					<Nombre>Coca Cola en lata</Nombre>
+					<Precio>9.00</Precio>
+					<Unidad>1</Unidad>
+					<Medida>pack x 12</Medida>
+				</ProductosSinOfertas>
+			</Almacen>
+		</Seccion>
+		<Seccion>
+			<Fruteria>
+				<ProductosEnOferta>
+					<Nombre>Naranjas</Nombre>
+					<Oferta>10% de descuento</Oferta>
+					<Vigencia>durante todo Marzo</Vigencia>
+					<Precio>2.70</Precio>
+					<Unidad>2</Unidad>
+					<Medida>Kilos</Medida>
+				</ProductosEnOferta>
+			</Fruteria>
+			<Fruteria>
+				<ProductosSinOfertas>
+					<Nombre>Platanos</Nombre>
+					<Precio>3.50</Precio>
+					<Unidad>2</Unidad>
+					<Medida>Kilos</Medida>
+				</ProductosSinOfertas>
+			</Fruteria>
+		</Seccion>
+	</Mercadona>
+</Lista_de_compras>

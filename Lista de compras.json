@@ -1,0 +1,106 @@
+{
+    "Lista de compras": [
+        {
+            "DIA": 
+                {
+                    "Direccion": "CL Riera e la Creu 47-49",
+                    "Poblacion": "Hospitalet de Llobregat",
+                    "Provincia": "Barcelona",
+                    "Seccion": [
+                        {"Almacen": [
+                            {"ProductosEnOferta": [
+                                {
+                                    "Nombre": "Chocolate Negro Dia Temptation",
+                                    "Oferta": "16% de descuento",
+                                    "Vigencia": "del 23/03 al 29/03",
+                                    "Precio": "0.79",
+                                    "Unidad": "1",
+                                    "Medida": "unidad"
+                                }
+                            ]},
+                            {"ProductosSinOfertas": [
+                                {
+                                    "Nombre": "Coca Cola en lata",
+                                    "Precio": "8.40",
+                                    "Unidad": "1",
+                                    "Medida": "pack x 12"}
+                            ]}
+                        ]},
+                        {"Fruteria": [
+                            {"ProductosEnOferta": [
+                                {
+                                    "Nombre": "Naranjas",
+                                    "Oferta": "30% de descuento",
+                                    "Vigencia": "del 23/03 al 29/03",
+                                    "Precio": "2.49",
+                                    "Unidad": "2",
+                                    "Medida": "Kilos"
+                                }
+                            ]},
+                            {"ProductosSinOfertas": [
+                                {
+                                    "Nombre": "Platanos",
+                                    "Precio": "3.62",
+                                    "Unidad": "2",
+                                    "Medida": "Kilos"
+                                }
+                            ]}
+                        ]
+                        }
+                    ]
+                }
+        },
+        {
+            "Mercadona": 
+                {
+                    "Direccion": "Avda. Carmen Amaya 37",
+                    "Poblacion": "Hospitalet de Llobregat",
+                    "Provincia": "Barcelona",
+                    "Seccion": [
+                        {"Almacen": [
+                            {"ProductosEnOferta": [
+                                {
+                                    "Nombre": "Chocolate Negro ",
+                                    "Oferta": "10% de descuento",
+                                    "Vigencia": "Durante todo Marzo",
+                                    "Precio": "0.90",
+                                    "Unidad": "1",
+                                    "Medida": "unidad"
+                                }
+                            ]},
+                            {"ProductosSinOfertas": [
+                                {
+                                    "Nombre": "Coca Cola en lata",
+                                    "Precio": "9.00",
+                                    "Unidad": "1",
+                                    "Medida": "pack x 12"
+                                }
+                            ]}
+                        ]},
+                        {"Fruteria": [
+                            {"ProductosEnOferta": [
+                                { 
+                                    "Nombre": "Naranjas",
+                                    "Oferta": "10% de descuento",
+                                    "Vigencia": "durante todo Marzo",
+                                    "Precio": "2.70",
+                                    "Unidad": "2",
+                                    "Medida": "Kilos"
+                                }
+                            ]},
+                            {"ProductosSinOfertas": [
+                                {
+                                    "Nombre": "Platanos",
+                                    "Precio": "3.50",
+                                    "Unidad": "2",
+                                    "Medida": "Kilos"
+                                }
+                            ]}
+                        ]
+                        }
+                    ]
+                }
+        }
+    ]
+}
+
