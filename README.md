@@ -1,5 +1,5 @@
 # JSON
-Práctica JSON - curso Desarrolladoras de Samsung/BeJob FullStack 2021/2022 </br>
+Práctica JSON - modulo Full Stack curso Desarrolladoras Samsung/BeJob 2021/2022 </br>
 
 Juan es el encargado de realizar las compras en su casa, por lo que revisa a menudo los catálogos de ofertas de los diferentes supermercados próximos a su domicilio con el fin de ahorrarse unos euros a final de mes.
 
